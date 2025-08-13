@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://da.live/#/stepri2020/universal-editor-sandbox"
+    url: "https://author-p162883-e1749168.adobeaemcloud.com/bin/franklin.delivery/stepri2020/universal-editor-sandbox
+/main"
     type: "markup"
     suffix: ".html"
