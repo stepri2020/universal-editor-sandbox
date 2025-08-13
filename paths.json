@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-sandbox/:/",
-    "/content/universal-editor-sandbox/configuration:/.helix/config.json",
-    "/content/universal-editor-sandbox/metadata:/metadata.json"
+    "/content/stephanie-s-sandboxsite/:/",
+    "/content/stephanie-s-sandboxsite/configuration:/.helix/config.json",
+    "/content/stephanie-s-sandboxsite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-sandbox/"
+    "/content/stephanie-s-sandboxsite/"
   ]
 }
